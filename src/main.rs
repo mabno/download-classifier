@@ -26,11 +26,16 @@ fn main() {
     let path = std::env::args()
         .nth(1)
         .expect("Argument 1 needs to be a path");
+    let polling_interval = std::env::args()
+        .nth(2)
+        .expect("Argument 2 needs to be a number of seconds")
+        .parse::<u64>()
+        .expect("Argument 2 needs to be a number of seconds");
 
     loop {
         watch(&path);
     
-        sleep(Duration::from_secs(5));
+        sleep(Duration::from_secs(polling_interval));
     }
 }
 
