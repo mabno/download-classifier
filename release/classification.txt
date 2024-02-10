@@ -1,0 +1,118 @@
+> images
+  - png
+  - jpg
+  - jpeg
+  - gif
+  - bmp
+  - tiff
+  - svg
+  - eps
+  - psd
+  - ai
+  - raw
+  - webp
+  - exr
+  - ico
+  - tga
+
+> videos
+  - mp4
+  - avi
+  - mov
+  - wmv
+  - mkv
+  - flv
+  - webm
+  - mpeg
+  - mpg
+  - m4v
+  - ogv
+  - vob
+  - 3gp
+  - rm
+  - swf
+
+> audio
+  - mp3
+  - wav
+  - flac
+  - aac
+  - ogg
+  - wma
+  - m4a
+  - aiff
+
+> documents
+  - pdf
+  - doc
+  - docx
+  - xls
+  - xlsx
+  - ppt
+  - pptx
+  - odt
+  - odp
+  - txt
+  - rtf
+  - csv
+  - xml
+  - html
+  - htm
+  - md
+
+> compressed
+  - zip
+  - rar
+  - 7z
+  - tar
+  - gz
+  - bz2
+  - xz
+  - z
+
+> executables
+  - exe
+  - dmg
+  - deb
+  - rpm
+  - apk
+  - jar
+  - bat
+  - sh
+
+> fonts
+  - ttf
+  - otf
+
+> styles
+  - css
+
+> scripts
+  - js
+  - py
+  - rb
+  - php
+  - java
+  - cpp
+  - c
+  - swift
+  - go
+  - perl
+  - lua
+  - pl
+  - ps1
+
+> data
+  - json
+  - yaml
+  - ini
+  - cfg
+
+> databases
+  - sqlite
+  - db
+  - mdb
+  - mysql
+  - postgresql
+  - dbf
+  - sql
